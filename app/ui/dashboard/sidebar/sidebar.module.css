@@ -40,3 +40,21 @@
     margin: 10px 0px;
 }
 
+.logout {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 5px 0px;
+    border-radius: 10px;
+    background: transparent;
+    border: none;
+    width: 100%;
+    color: white;
+    cursor: pointer;
+}
+
+.logout:hover {
+    background-color: #2e374a;
+}
+
